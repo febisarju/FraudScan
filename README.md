@@ -1,4 +1,4 @@
-# Fraud Detection and Risk Analysis
+# FraudScan Analytics
 
 This project focuses on detecting fraudulent credit card transactions and analyzing customer risk profiles using a relational database and advanced SQL queries. It includes a comprehensive dataset of customer and transaction data, along with visualizations to identify fraud patterns, customer spending behavior, and risk assessments.
 
