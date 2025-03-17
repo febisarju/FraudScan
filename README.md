@@ -1,4 +1,4 @@
-# FraudScan Insights: Detecting Risks in Transactions
+# FraudScan Analytics
 
 This project focuses on detecting fraudulent transactions and analyzing customer risk profiles using a relational database and advanced SQL queries. It includes a comprehensive dataset of customer and transaction data, along with visualizations using Power BI to identify fraud patterns, customer spending behavior, and risk assessments.
 
