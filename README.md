@@ -14,5 +14,8 @@ Technologies Used:
 - SQL: For database creation, data manipulation, and analysis.
 - Power BI: For creating interactive visualizations and dashboards.
 
+![fraud_dashboard](https://github.com/user-attachments/assets/a650988c-2a74-4dd0-ab2d-a0849b3e2d2c)
+
+
 Contact:
 - Github- https://github.com/febisarju
