@@ -1,0 +1,17 @@
+# Large files
+large_transactions.sql
+raw_data.csv
+
+# Sensitive data
+config.ini
+database_credentials.txt
+secrets.txt
+
+# Temporary files
+*.log
+*.tmp
+
+# IDE and tool-specific files
+.idea/
+.vscode/
+*.bak
